@@ -1,0 +1,6 @@
+item.book_of_atonement.name=The Book of Atonement
+item.key.name=The Key
+tile.test_block.name=TEST FUCKING BLOCK
+item.coord_cache.name=Coordinate Cache
+
+itemGroup.underground_survival_creative_tab=Underground Survival
